@@ -18,4 +18,4 @@ Deep learning codes are connected to HPC based on NVIDIA Tesla K80 GPU with 24GB
 \
 Multiple object tracking is based on [SORT](https://github.com/abewley/sort), codes are revised and acknowledged approriately inside thesis to fulfill project needs.\
 \
-Uploaded codes contains all the scripts in this project ranging from, data pre-processing, extraction, cleaning, cell trajectory tracking, migration and interaction analysis, to reproducible data visualisation (raw data excluded due to the nature of the experiment).
+Uploaded codes contains all the scripts in this project ranging from, data pre-processing, extraction, cleaning, cell trajectory tracking, migration and interaction analysis, to data visualisation (raw data excluded due to the nature of the experiment).
