@@ -1,5 +1,5 @@
 # MRes-2020DS-Project2
-This repository contains codes used and relative documentation for the 2nd project of Imperial College London MRes Biomedical Research (Data Science stream) in 2019-2020 academic year. Project thesis will be uploaded in due course.\
+This repository contains codes used and relative documentation for the 2nd project of Imperial College London MRes Biomedical Research (Data Science stream) in 2019-2020 academic year. Project thesis can be accessed [here](https://drive.google.com/file/d/1slvb01vG3i7ZjctspW3ATfRTqfHHlDPE/view?usp=sharing).\
 \
 -- Conducted by: Mingze Gao.\
 -- Supervisors: Dr. Joram Matthias Posma & Dr. Katia De Filippo
